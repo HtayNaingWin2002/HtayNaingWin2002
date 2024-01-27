@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Web Developer $ Cyber Security Engineer</h1>
-<h3 align="center">A passionate frontend developer from Myanmar</h3>
+<h1 align="center">Hi 👋, I'm Web Developer & Cyber Security Engineer</h1>
+<h3 align="center">A passionate Web  Developer from Myanmar</h3>
 
 - 🔭 I’m currently working on **ecommerce**
 
